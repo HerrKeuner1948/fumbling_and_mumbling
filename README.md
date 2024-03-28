@@ -30,9 +30,9 @@ Faktisch wäre aber z.B. das Duodezimalsystem wesentlich sinnvoller. Man kann do
 
 Beispiel: Ein Kreis hat 360°, weil man 360 in sehr viele gleichgroße Faktoren zerlegen kann. Anders gesagt: es ist eine hochzusammengesetzte Zahl (so etwas wie das Gegenteil einer Primzahl).
 
-# Die Null
-Die Bedeutung der Null ist für ein Stellwertsystem relativ klar: Bei dieser Potenz gibt es keinen Beitrag zu Zahl. Die Verknappung als Null zu "Nichts" ist hierbei aber falsch. Das würde aber zu sehr abschweifen.
-
 Anderes Beispiel: Im Babylon nutzte man 60 als Basis. Dies war vermutlich auch das erste verwendete Stellwertsystem.
 
 Ein Kompromiss zwischen hohem Nutzen und handhabbarer Anzahl an Ziffern wäre hierbei das Duodezimalsystem. Werden wir es einführen? Ganz sicher nicht. Zu viel Texte wurden mit dem Dezimalsystem geschrieben. Der Aufwand rechtfertigt nicht den Nutzen. Vor allem weil heute eh niemand mehr rechnet. Und wenn, dann mit Taschenrechner.
+
+# Die Null
+Die Bedeutung der Null ist für ein Stellwertsystem relativ klar: Bei dieser Potenz gibt es keinen Beitrag zu Zahl. Die Verknappung als Null zu "Nichts" ist hierbei aber falsch. Das würde aber zu sehr abschweifen.
